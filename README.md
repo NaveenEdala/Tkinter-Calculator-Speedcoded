@@ -4,19 +4,8 @@ A calculator app I built while learning Tkinter for Python. Speedcoded the entir
 ### The following steps were what I took to tackle this project:
 
 1. Planning the layout of the calculator:
-    +----------------------+
-    |      Input Label     |
-    +----------------------+
-    |      Output Label    |
-    +---+---+----+---+-----+
-    | 7 | 8 | 9  | / | DEL |
-    +---+---+----+---+-----+
-    | 4 | 5 | 6  | * | CLR |
-    +---+---+----+---+-----+
-    | 1 | 2 | 3  | + |     |
-    +---+---+----+---+-----+
-    | 0 | . | 00 | - |  =  |
-    +---+---+----+---+-----+
+    
+    ![Nice](https://i.imgur.com/MdNv1tl.png)
 
 2. Assorting positions into rows and columns accourding to Tkinter grid properties
 
